@@ -146,7 +146,7 @@ export const Home = () => {
           data-aos="fade-left"
         >
           <FaPhoneAlt className="mr-2" />
-          <span>Call Now: +8801771276400</span>
+          <span>Call Now: +8801797856496</span>
         </div>
 
         {/* Scroll to Top Button */}

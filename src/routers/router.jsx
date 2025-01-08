@@ -189,7 +189,7 @@ loader: () => fetch(`${BaseUrl}pet-listing`),
   
 
   {
-    path: "login",
+    path: "/login",
     element: <Login />
   },
   {

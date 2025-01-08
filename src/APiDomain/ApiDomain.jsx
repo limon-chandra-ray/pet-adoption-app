@@ -1,0 +1,1 @@
+export const BaseUrl= 'https://pet-adoption-server-2f6m.onrender.com/api/';

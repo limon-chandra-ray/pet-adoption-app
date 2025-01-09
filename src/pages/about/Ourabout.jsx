@@ -111,8 +111,8 @@ const Ourabout = () => {
                   <div className="space-y-4 mb-4">
                     {[
                       { icon: FaMapMarkerAlt, text: 'Gulshan-1 road-2, Dhaka', color: 'text-red-600' },
-                      { icon: FaPhoneAlt, text: '01771276400', color: 'text-green-600' },
-                      { icon: FaEnvelope, text: 'adopt@pawsandhearts.com', color: 'text-blue-600' }
+                      { icon: FaPhoneAlt, text: '0179785695', color: 'text-green-600' },
+                      { icon: FaEnvelope, text: 'limonray@gmail.com', color: 'text-blue-600' }
                     ].map((item, index) => (
                       <p key={index} className="flex items-center p-3 bg-gray-50 rounded-lg group-hover:bg-green-50 transition-colors duration-300">
                         <item.icon className={`mr-3 text-xl ${item.color}`} />

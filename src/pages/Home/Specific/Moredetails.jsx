@@ -125,7 +125,7 @@ const Moredetails = () => {
                 transition={{ delay: 0.6 }}
               >
                 <FaPhone className="text-primary-600 mr-2" />
-                <span>01771276400</span>
+                <span>01797856496</span>
               </motion.div>
               <motion.p
                 className="mt-6 text-gray-600"
